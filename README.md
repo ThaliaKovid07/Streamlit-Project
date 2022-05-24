@@ -1,5 +1,4 @@
-![0](https://user-images.githubusercontent.com/68967217/170130815-94f80d0e-fef9-420a-b6f9-94e7b1e06615.PNG)
-![Capture](https://user-images.githubusercontent.com/68967217/170130822-11c1b299-c9b3-4300-b7a6-bbac06d26809.PNG)
+
 # Streamlit-Project
 Overview - 
 A basic EDA App using the Streamlit library
@@ -20,3 +19,5 @@ Technical Aspect -
 •	slidebar function will display a finite no of companies from a particular sector selected in the sidebar
 
 Screenshots - 
+![0](https://user-images.githubusercontent.com/68967217/170130815-94f80d0e-fef9-420a-b6f9-94e7b1e06615.PNG)
+![Capture](https://user-images.githubusercontent.com/68967217/170130822-11c1b299-c9b3-4300-b7a6-bbac06d26809.PNG)
