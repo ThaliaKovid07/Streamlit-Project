@@ -1,8 +1,11 @@
 # Streamlit-Project
+Overview - 
 A basic EDA App using the Streamlit library
 
-The code works as follows - 
+Motivation -
+My main motivation behind creating this app was to learn the hyped Streamlit library and use it to create a data science web application. The web application displays data of stocks of top 500 companies in the world by ranking. It is very sorted so it can be used for information purposes.
 
+Technical Aspect - 
 •	Markdown function to show the introduction to the website in streamlit.
 •	we use st.sidebar.header to create a header for user input features where they can select the different sectors and we will put it in the sidebar.
 •	@st.cache will cache the data once it's been run and we won't need to run it again and again.
