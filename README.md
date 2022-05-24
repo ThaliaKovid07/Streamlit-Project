@@ -16,3 +16,5 @@ Technical Aspect -
 •	download function will help us to directly download the data from yfinance into 
 •	the price_plot is a function which will help us to create plots 
 •	slidebar function will display a finite no of companies from a particular sector selected in the sidebar
+
+Screenshots - 
